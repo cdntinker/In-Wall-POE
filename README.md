@@ -17,3 +17,6 @@ The outline on layer User1 is the internals of a typical Wiremold surface box.
 
 > [!TIP]
 > Actual board should fit in ANY North American box.
+
+> [!NOTE]
+> See notations in the schematic and refer to the datasheet for information about resistors R1-R3.
