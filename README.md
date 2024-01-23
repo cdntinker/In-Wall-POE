@@ -13,10 +13,12 @@ The outline on layer User1 is the internals of a typical Wiremold surface box.
 > 
 > The outline on layer User3 is a fairly accurate representation of an Ethernet plug in the back of the EAP235.
 > 
-> You'll note there is some interferance.  This can be mitigated by leaving this board loose in the blastic box. (Not perfect, but... meh...)
+> ~~You'll note there is some interferance.  This can be mitigated by leaving this board loose in the blastic box. (Not perfect, but... meh...)~~
 
 > [!TIP]
 > Actual board should fit in ANY North American box.
 
 > [!NOTE]
 > See notations in the schematic and refer to the datasheet for information about resistors R1-R3.
+
+2024/01/22: upgraded from the overkill Ethernet jack to a better fit plus magnetics...
