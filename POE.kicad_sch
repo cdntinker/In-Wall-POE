@@ -3080,7 +3080,7 @@
     (property "Manufacturer_Part_Number" "Ag9905LP" (id 10) (at 250.19 645.72 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (property "LCSC" "C5380108" (id 8) (at 220.98 50.8 0)
+    (property "LCSC" "C5380108" (id 11) (at 220.98 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 60f0972d-ffb4-44b4-91a2-64cd62c0f497))
@@ -3191,7 +3191,7 @@
   )
 
   (symbol (lib_id "Austins creations:RC01374") (at 180.34 116.84 0) (unit 1)
-    (in_bom no) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2fc1c0d9-0c5e-4da1-8ab1-479c27a16f8a)
     (property "Reference" "J1" (id 0) (at 187.96 116.2049 0)
       (effects (font (size 1.27 1.27)) (justify left))
