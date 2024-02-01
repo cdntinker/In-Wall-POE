@@ -4016,7 +4016,7 @@
   (gr_text "From\nPoE Switch" (at 88.123149 111.730068) (layer "F.SilkS") (tstamp 927c93c7-de8c-48e3-aa69-997bcb501d68)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "- +" (at 115.250055 98) (layer "F.SilkS") (tstamp c0ad34d8-b340-4c75-8563-3f14baf6894c)
+  (gr_text "+ -" (at 115.250055 98) (layer "F.SilkS") (tstamp c0ad34d8-b340-4c75-8563-3f14baf6894c)
     (effects (font (size 1.5 1.5) (thickness 0.25)))
   )
   (gr_text "Wiremold Surface Mount Box internals" (at 100 160) (layer "User.1") (tstamp 0c03dbbe-f832-4521-b847-3d7c0d0c6d03)
