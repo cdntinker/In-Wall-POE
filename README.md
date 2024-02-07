@@ -16,6 +16,10 @@ The outline on layer User1 is the internals of a typical Wiremold surface box.
 > [!TIP]
 > Actual board should fit in ANY North American box.
 
+> [!TIP]
+> The PoE module in use is available in 3v3, 5v0 and 12v versions.
+> So, this board could also be used to supply those voltages.
+
 > [!NOTE]
 > See notations in the schematic and refer to the datasheet for information about resistors R1-R3.
 
