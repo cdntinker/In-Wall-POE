@@ -24,3 +24,8 @@ The outline on layer User1 is the internals of a typical Wiremold surface box.
 > See notations in the schematic and refer to the datasheet for information about resistors R1-R3.
 
 2024/01/22: upgraded from the overkill Ethernet jack to a better fit plus magnetics...
+
+2024/02/13: Assembled first board
+* No smoke, but not producing output properly...
+  * So far, suspect it needs more of a load.  Will test once I find a USB-A pigtail.
+* Need to change footprint of L1 to something easier to hand-solder & move C1 a little to the left to make assembly easier.
