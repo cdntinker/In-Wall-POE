@@ -29,3 +29,10 @@ The outline on layer User1 is the internals of a typical Wiremold surface box.
 * No smoke, but not producing output properly...
   * So far, suspect it needs more of a load.  Will test once I find a USB-A pigtail.
 * Need to change footprint of L1 to something easier to hand-solder & move C1 a little to the left to make assembly easier.
+
+2024/02/15: Tested successfully
+* Definitely needs minimum load.
+  * Added 2x 470 ohm resistors in parallel at R3 (Now Rl1 & Rl2)
+* Does not seem to reliably keep voltage under much load.
+  * Possibly because of knock-off module?  Must get Silvertel modules & test...
+* Modified L1 footprint, moved C1 & added an extra load resistor footprint.  All to ease assembly.
