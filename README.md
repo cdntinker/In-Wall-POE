@@ -33,6 +33,13 @@ The outline on layer User1 is the internals of a typical Wiremold surface box.
 2024/02/15: Tested successfully
 * Definitely needs minimum load.
   * Added 2x 470 ohm resistors in parallel at R3 (Now Rl1 & Rl2)
-* Does not seem to reliably keep voltage under much load.
-  * Possibly because of knock-off module?  Must get Silvertel modules & test...
+* ~~Does not seem to reliably keep voltage under much load.~~
+  * ~~Possibly because of knock-off module?  Must get Silvertel modules & test...~~
 * Modified L1 footprint, moved C1 & added an extra load resistor footprint.  All to ease assembly.
+
+2024/02/22: Tested with actual Silvertel module AND no longer trust Chinese USB testers
+* Received Silvertel module from Mouser & assembled another board.
+  * EXACTLY the same results.
+* **THEN**, Just for giggles, actually measured the output with my regular meter (Uni-T UT61e)
+  * Well...  That's interesting.  UT61e says the output is a nice stable 5V (give or take ~0.03V)
+  * Yet the load tester AND an inline USB tester both show severe voltage drop as current goes up.
